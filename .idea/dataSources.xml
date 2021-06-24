@@ -7,13 +7,13 @@
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mariadb://118.195.128.126:3306/OnlineOJ</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="OnlineOJ@localhost" uuid="23717b46-e293-4616-b0fc-a8f055815e64">
+    <data-source source="LOCAL" name="@localhost" uuid="42d820fd-c7b5-489b-9a3e-ddf7727a391d">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/OnlineOJ</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
       <driver-properties>
-        <property name="serverTimezone" value="GMT" />
+        <property name="serverTimezone" value="UTC" />
       </driver-properties>
     </data-source>
   </component>

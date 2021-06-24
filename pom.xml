@@ -26,7 +26,6 @@
             <artifactId>javax.servlet-api</artifactId>
             <!-- servlet 版本和 tomcat 版本有对应关系，切记 -->
             <version>3.1.0</version>
-            <!-- 这个意思是我们只在开发阶段需要这个依赖，部署到 tomcat 上时就不需要了 -->
             <scope>provided</scope>
         </dependency>
 
