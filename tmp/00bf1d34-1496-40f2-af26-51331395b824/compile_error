@@ -1,0 +1,3 @@
+javac: 无效的标记: ./tmp/00bf1d34-1496-40f2-af26-51331395b824/Solution.java-d./tmp/00bf1d34-1496-40f2-af26-51331395b824/
+用法: javac <options> <source files>
+-help 用于列出可能的选项
